@@ -8,7 +8,7 @@
 <meta content="Anil z" name="author">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- SITE TITLE -->
-<title>Login</title>
+<title>Login1</title>
 
 <!-- Favicon Icon -->
 <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
